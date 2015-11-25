@@ -4,4 +4,4 @@ This is the source code for our static website living at http://DevOpsGO.github.
 
 It runs on Jekyll + GitHub Pages.
 
-Contributions are welcome!
+Contributions are welcome! Check [CONTRIBUTING.md](./CONTRIBUTING.md) for more details on that.
