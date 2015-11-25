@@ -112,11 +112,13 @@
     list-style: none;
     margin-left: 0;
 }
+.site-footer .social-media-list li {
+    display: inline-block;
+}
 
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
