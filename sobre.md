@@ -11,7 +11,7 @@ Venha trocar experiências sobre DevOps conosco.
 # Canais
 
 <ul class="social-media-list">
-    <li>{% include icon-slack.html username=site.slack_company %} (Convites em breve)</li>
+    <li>{% include icon-slack.html username=site.slack_company %} (Solicite seu convite <a href='http://devopsgo-slack-invite.meteor.com/'>aqui</a>)</li>
     <li>{% include icon-google-group.html username=site.google_group %}</li>
     <li>{% include icon-facebook.html username=site.facebook_group %}</li>
     <li>{% include icon-twitter.html username=site.twitter_username %}</li>
