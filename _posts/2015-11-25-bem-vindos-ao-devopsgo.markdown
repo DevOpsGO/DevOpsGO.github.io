@@ -9,4 +9,4 @@ Nossa ideia é fomentar o DevOps em nosso estado de Goiás, compartilhando conhe
 
 Entre neles e ajude a comunidade crescer!
 
-Descubra nossos canais nossa página "[Sobre](/sobre/)"
+Descubra nossos canais em nossa página "[Sobre](/sobre/)"
